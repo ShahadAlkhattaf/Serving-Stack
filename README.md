@@ -81,7 +81,7 @@ streaming: not implemented (optional this week)
 GREEN CHECK: PASS
 ```
 
-![Green Check](images/green-check.png)
+![Green Check](images/green-check)
 
 ## Result
 
