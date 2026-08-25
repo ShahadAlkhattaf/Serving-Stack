@@ -38,8 +38,8 @@ Neither image contains model weights; those live in a mounted volume.
 
 | Stage | Image Size |
 |---|---:|
-| Naive build (full base, cached pip) | 17.7 GB |
-| Slim build | 2.81 GB |
+| Naive build (full base, cached pip) | 16.5 GB |
+| Slim CPU build | 1.61 GB |
 
 ## Start Here
 
